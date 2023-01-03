@@ -1,0 +1,10 @@
+[package]
+name = "a3"
+version = "0.1.0"
+authors = ["Greg Baker <ggbaker@sfu.ca>", "Anders Miltner but just a little bit, Greg should get 99.99% of the credit <miltner@cs.sfu.ca>"]
+edition = "2018"
+
+[dependencies]
+sha2 = "~0.9"
+digest = "~0.9"
+spmc = "~0.3"
